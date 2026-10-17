@@ -1,0 +1,10 @@
+/build/
+/build-*/
+/cmake-build-*/
+/.cache/
+*.o
+*.a
+*.elf
+*.hex
+*.bin
+*.map
